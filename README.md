@@ -24,7 +24,7 @@ If you find this work helpful, please cite:
 ```
 @inproceedings{Nv2021APN,
   author    = {Chao Hu and
-	             Fan Wu and
+	       Fan Wu and
                Weijie Wu and
                Weibin Qiu and
                Shengxin Lai},
