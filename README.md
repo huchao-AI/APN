@@ -1,5 +1,5 @@
 # Codes_APN
-Official codes of CVPR21 paper: Normal Learning in Videos with Attention Prototype Network (https://arxiv.org/abs/2108.11055)  
+Official codes of this paper: Normal Learning in Videos with Attention Prototype Network (https://arxiv.org/abs/2108.11055)  
   
 Overview of our approach based on APU and CAU model:  
 ![](demo/f1.png)![](demo/f2.png)
